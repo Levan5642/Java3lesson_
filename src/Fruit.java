@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class Fruit {
-}
+
+    public interface Fruit {
+        String getName();
+        double getWeight();
+    }
+
+
